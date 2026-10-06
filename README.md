@@ -4,9 +4,6 @@ Sistema embebido que imita el funcionamiento básico de un sonar: un servomotor 
 
 Proyecto de la asignatura **Microprocesadores y Microcontroladores** del Grado en Ingeniería Electrónica Industrial y Automática (Universidad Carlos III de Madrid, curso 2024-25).
 
-<!-- Añade aquí una foto o un GIF del montaje funcionando -->
-<!-- ![Montaje del sonar](docs/montaje.jpg) -->
-
 ## Funcionamiento
 
 El sistema tiene dos modos, que se alternan con el botón **USER (B1)** de la placa:
